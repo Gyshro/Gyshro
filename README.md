@@ -33,6 +33,12 @@ Me chamo Maxwell Gomes, tenho 22 anos e sou de Fortaleza. Atualmente, estou curs
             src="https://custom-icon-badges.demolab.com/github/followers/Gyshro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://wa.me/5585992932642" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Me chame no WhatsApp" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
 </p>
 
 ---
